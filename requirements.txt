@@ -1,0 +1,4 @@
+PIL= pip install pillow
+tkinter = pip install tkinter
+googletrans = pip install googletrans
+httpcore = pip install httpcore
